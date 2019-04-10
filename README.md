@@ -1,3 +1,5 @@
+[![TechCommit](https://raw.githubusercontent.com/tech-training/tech_commit-privacy_policy/master/header.png)](https://www.tech-commit.jp)
+
 # 株式会社テクトレ TechCommitプライバシーポリシー
 
 [株式会社テクトレ](https://corp.tech-training.jp)（以下「当社」といいます）は、当社の提供するサービス[TechCommit](https://www.tech-commit.jp)（以下「本サービス」といいます）における、ユーザーについての個人情報を含む利用者情報の取扱について、以下のとおりプライバシーポリシー（以下「本ポリシー」といいます）を定めます。  
