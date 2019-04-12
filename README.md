@@ -1,4 +1,4 @@
-[![TechCommit](https://raw.githubusercontent.com/tech-training/tech_commit-privacy_policy/master/header.png)](https://www.tech-commit.jp)
+[![TechCommit](https://raw.githubusercontent.com/tech-training/tech_commit-privacy_policy/master/img/header.png)](https://www.tech-commit.jp)
 
 # 株式会社テクトレ TechCommitプライバシーポリシー
 
@@ -147,4 +147,8 @@ Google社のGoogleAnalyticsによる情報の取扱については、[GOOGLE の
 ---
 
 2019年4月10日制定
+
+[![TechCommit](https://raw.githubusercontent.com/tech-training/tech_commit-privacy_policy/master/img/footer.png)](https://www.tech-commit.jp)
+
+[![TechCommit](https://raw.githubusercontent.com/tech-training/tech_commit-privacy_policy/master/img/logo.png)](https://www.tech-commit.jp)
 
