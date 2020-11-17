@@ -148,6 +148,9 @@ Google社のGoogleAnalyticsによる情報の取扱については、[GOOGLE の
 
 2019年4月10日制定
 
+※詳細な変更内容は下記masterブランチのコミットログをご確認ください。  
+https://github.com/tech-training/tech_commit_privacy_policy/commits/master  
+
 [![TechCommit](https://raw.githubusercontent.com/tech-training/tech_commit-privacy_policy/master/img/footer.png)](https://www.tech-commit.jp)
 
 [![TechCommit](https://raw.githubusercontent.com/tech-training/tech_commit-privacy_policy/master/img/logo.png)](https://www.tech-commit.jp)
